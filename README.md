@@ -1,7 +1,7 @@
 # Implementation-of-Value-Iteration-for-Optimal-Policy-Computation-using-Gymnasium
 
-## NAME : AVINASH T
-## REG NO : 212223230026
+## NAME : RAHUL V
+## REG NO : 212223240133
 ---
 ## Aim
 
@@ -179,8 +179,7 @@ env.close()
 
 ```
 ## Output
-
-<img width="581" height="292" alt="image" src="https://github.com/user-attachments/assets/169ac401-5d8a-47c3-bb2b-2c9b334ed9a6" />
+<img width="406" height="307" alt="Screenshot 2026-09-16 223023" src="https://github.com/user-attachments/assets/91a70815-bdd5-46ba-aaff-ca4e9aa97c28" />
 
 
 
