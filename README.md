@@ -151,8 +151,6 @@ V, policy, iteration = value_iteration(env)
 # -------------------------------------------------
 # Display Output
 # -------------------------------------------------
-print("Name: RAHUL V")
-print("Register Number: 212223240133")
 print("Value Iteration Completed")
 print("Number of Iterations:", iteration)
 
